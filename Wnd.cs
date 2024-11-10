@@ -16,6 +16,7 @@ namespace acProj
         public Wnd()
         {
             InitializeComponent();
+            this.Icon = new Icon("Resources/ico.ico");
 
             using var sr = new StreamReader("config.json");
             var cfg = JsonConvert.DeserializeObject<ConfigDTO>(sr.ReadToEnd());
