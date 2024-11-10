@@ -1,0 +1,28 @@
+{
+    "tabs": [
+        {
+            "title": "NVIM",
+            "panes": [
+                {
+                    "subDir": ""
+                }
+            ]
+        },
+        {
+            "title": "CMD",
+            "panes": [
+                {
+                    "subDir": ""
+                }
+            ]
+        },
+        {
+            "title": "RUN",
+            "panes": [
+                {
+                    "subDir": ""
+                }
+            ]
+        }
+    ]
+}
